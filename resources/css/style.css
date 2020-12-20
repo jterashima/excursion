@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#top{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+#top_title, #footer_title{
+    color:aquamarine;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+#bottom, #footer{
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+#bottom_title, #copyright{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+#phone{
+    margin-top: 15px;
+}
+
+#copyright{
+    text-align: right;
+}
